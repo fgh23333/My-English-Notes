@@ -1,0 +1,10 @@
+h1{
+    margin: 0 auto;
+    width: max-content;
+}
+div{
+    margin: 0 auto;
+    width: max-content;
+    text-align: left;
+    font-size: 16px;
+}
